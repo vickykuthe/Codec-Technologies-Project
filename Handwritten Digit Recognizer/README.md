@@ -1,4 +1,4 @@
-<img width="1542" height="748" alt="image" src="https://github.com/user-attachments/assets/334f928c-eceb-46a5-b334-1534750b8776" />🔢 Handwritten Digit Recognizer
+🔢 Handwritten Digit Recognizer
 
 A Computer Vision & Machine Learning project that detects and recognizes handwritten digits from images using HOG + SVM.
 
